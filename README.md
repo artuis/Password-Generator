@@ -14,4 +14,4 @@ PERI: User is given a set of prompts to answer, each asking which type of charac
       
 POST: A password is printed in the text box matching the chosen criteria.
 
-
+GitHub pages link to password generator: https://artuis.github.io/Password-Generator/
